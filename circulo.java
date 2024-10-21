@@ -13,6 +13,8 @@ public class circulo {
         double area = 3.14 * raio * raio;
 
         System.out.println("Area do circulo: " +area);
+
+        /*double area = PI math.pow (raio, b:2); */
     
     }
     
